@@ -48,3 +48,4 @@ Nu trebuie sa puneti paranteze
 
 Added ?guilds. A command for developer only that shows how many guilds the bot is in and the guilds ids.
 Reworked the ?ping command so it is readable.
+Added ?gban A command for developer only that will ban a user from every guild that he shares with the bot.
