@@ -1,5 +1,7 @@
 # VisionBot
 
+============ 25.02.2021 ChangeLog ============
+
 Am adaugat:
 Error messages la comenzile de moderatie ca atunci cand nu merge o comanda o sa va zica daca aveti permisiuni sa o executati sau nu.
 
@@ -41,3 +43,8 @@ Nu trebuie sa puneti paranteze
 ?tempban @Membru/UserID [Timp] [Reason] Ex: "?tempban @Txvi 60 Gay" sau "?tempban 737976503228301373 60 Gay". La TEMPBAN timpul este NUMAI in secunde. Adica cand dati tempban cuiva va trebuii sa puneti in secunde cat timp vreti sa ia accea persoana ban Ex: ?tempban @Txvi 3600 Gay. Aici banul este de o ora. Sau ?tempban @Txvi 604800 Gay. Aici banul este de o saptamana. 
 
 !!!!Unde am scris gay/muie etc acolo este reasonul unde o sa puneti ceea ce vreti voi. Eu le-am folosit ca un exemplu.
+
+============ Latest Update 01/03/2021 ============
+
+Added ?guilds. A command for developer only that shows how many guilds the bot is in and the guilds ids.
+Reworked the ?ping command so it is readable.
