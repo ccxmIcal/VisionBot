@@ -1,5 +1,7 @@
 # Cosmic
 
+https://discord.com/api/oauth2/authorize?client_id=808691143554367519&permissions=8&scope=bot
+
 ============ 12.03.2021 ChangeLog ============
 
 
