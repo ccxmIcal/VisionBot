@@ -1,6 +1,8 @@
 # Cosmic
 
-https://discord.com/api/oauth2/authorize?client_id=808691143554367519&permissions=8&scope=bot
+Bot invite link: https://discord.com/api/oauth2/authorize?client_id=808691143554367519&permissions=8&scope=bot
+
+Cosmic is a multi purpose bot I made in python for fun. It has alot of commands. Below are listed only the moderation ones. You can feel free to give it a try and for any questions you can just dm me ccx!#0011
 
 ============ 12.03.2021 ChangeLog ============
 
